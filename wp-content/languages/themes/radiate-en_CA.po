@@ -1,0 +1,311 @@
+# Translation of Radiate in English (Canada)
+# This file is distributed under the same license as the Radiate package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-08-31 00:06:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Radiate\n"
+
+#. Theme Name of the plugin/theme
+msgid "Radiate"
+msgstr "Radiate"
+
+#. Description of the plugin/theme
+msgid "Radiate is a clean, creative and light retina ready responsive blogging theme supporting parallax header image. It integrates primary color option, custom background, custom css and few other features through WordPress customizer. The theme is translation ready and you can get free support on http://themegrill.com/support-forum. View demo at http://demo.themegrill.com/radiate. Available Translations: French, German, Russian, Swedish, Dutch, Norwegian, Brazilian Portuguese and Spanish."
+msgstr "Radiate is a clean, creative and light retina ready responsive blogging theme supporting parallax header image. It integrates primary colour option, custom background, custom css and few other features through WordPress customizer. The theme is translation ready and you can get free support on http://themegrill.com/support-forum. View demo at http://demo.themegrill.com/radiate. Available Translations: French, German, Russian, Swedish, Dutch, Norwegian, Brazilian Portuguese and Spanish."
+
+#: inc/customizer.php:212
+msgid "Check to hide Header Search Icon."
+msgstr "Check to hide Header Search Icon."
+
+#: inc/customizer.php:194
+msgid "Header Search Icon"
+msgstr "Header Search Icon"
+
+#: sidebar.php:26
+msgid "Meta"
+msgstr "Meta"
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr "Search"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Search &hellip;"
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Search for:"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/template-tags.php:115
+msgid "Reply"
+msgstr "Reply"
+
+#: inc/template-tags.php:104
+msgid "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+msgstr "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+
+#: inc/template-tags.php:110
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: inc/template-tags.php:99
+msgid "Post author"
+msgstr "Post author"
+
+#: inc/template-tags.php:102
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: inc/template-tags.php:84
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: inc/template-tags.php:84
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:62
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:61
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
+
+#: inc/template-tags.php:58
+msgid "Post navigation"
+msgstr "Post navigation"
+
+#: inc/template-tags.php:33
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:29
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Older posts"
+
+#: inc/template-tags.php:25
+msgid "Posts navigation"
+msgstr "Posts navigation"
+
+#: inc/customizer.php:80
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: inc/customizer.php:100
+msgid "Add your custom css here and design live! (for advanced users)"
+msgstr "Add your custom css here and design live! (for advanced users)"
+
+#: inc/customizer.php:110
+msgid "Front Page Featured Section"
+msgstr "Front Page Featured Section"
+
+#: inc/customizer.php:141
+msgid "First featured page"
+msgstr "First featured page"
+
+#: inc/customizer.php:149
+msgid "Second featured page"
+msgstr "Second featured page"
+
+#: inc/customizer.php:157
+msgid "Third featured page"
+msgstr "Third featured page"
+
+#: inc/customizer.php:166
+msgid "Author Bio"
+msgstr "Author Bio"
+
+#: inc/customizer.php:184
+msgid "Check to enable the Author Bio in the single post page."
+msgstr "Check to enable the Author Bio in the single post page."
+
+#: inc/customizer.php:272
+msgid "Theme Info"
+msgstr "Theme Info"
+
+#: inc/customizer.php:273
+msgid "View PRO version"
+msgstr "View PRO version"
+
+#: inc/customizer.php:70
+msgid "Primary Color"
+msgstr "Primary Colour"
+
+#: inc/custom-header.php:41
+msgid "Header Image One"
+msgstr "Header Image One"
+
+#: inc/customizer.php:38
+msgid "Site Title"
+msgstr "Site Title"
+
+#: header.php:47
+msgid "Skip to content"
+msgstr "Skip to content"
+
+#: functions.php:85
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:51
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: front-page.php:36
+msgid "Read more"
+msgstr "Read more"
+
+#: footer.php:19
+msgid "Proudly  powered by "
+msgstr "Proudly  powered by "
+
+#: footer.php:20
+msgid "WordPress"
+msgstr "WordPress"
+
+#: footer.php:22
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s by %2$s."
+
+#: content.php:40
+msgid "Read more <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Read more <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:54 content.php:74
+msgid "% Comments"
+msgstr "% Comments"
+
+#: content-single.php:54 content.php:74
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: content-single.php:54 content.php:74
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:34 content-single.php:44 content.php:54 content.php:64
+msgid ", "
+msgstr ", "
+
+#: content-page.php:29 content-single.php:57 content.php:77
+msgid "Edit"
+msgstr "Edit"
+
+#: content-page.php:24 content-single.php:24 content.php:43
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content-none.php:30
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+
+#: content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+
+#: content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:41 comments.php:59
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: comments.php:40 comments.php:58
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:39 comments.php:57
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:32
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: archive.php:65 sidebar.php:19
+msgid "Archives"
+msgstr "Archives"
+
+#: archive.php:62
+msgid "Links"
+msgstr "Links"
+
+#: archive.php:59
+msgid "Quotes"
+msgstr "Quotes"
+
+#: archive.php:56
+msgid "Videos"
+msgstr "Videos"
+
+#: archive.php:53
+msgid "Images"
+msgstr "Images"
+
+#: archive.php:50
+msgid "Asides"
+msgstr "Asides"
+
+#: archive.php:47
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: archive.php:44
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: archive.php:41
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Try searching with some keywords."
+msgstr "It looks like nothing was found at this location. Try searching with some keywords."
+
+#: archive.php:33
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#. Theme URI of the plugin/theme
+msgid "http://themegrill.com/themes/radiate/"
+msgstr "http://themegrill.com/themes/radiate/"
+
+#. Author of the plugin/theme
+msgid "ThemeGrill"
+msgstr "ThemeGrill"
+
+#. Author URI of the plugin/theme
+msgid "http://themegrill.com/"
+msgstr "http://themegrill.com/"
